@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1371a2_99fe8737",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1003310
+      },
+      "writtenOn": "2015-03-12T15:21:23Z",
+      "side": 1,
+      "message": "same comment as in : https://review.gerrithub.io/#/c/218558/1/openstack-neutron.spec\n\nI\u0027m actually a bit lost of what ../fwaas_driver.ini references, is it in the distgit with the spec file?\n\ncan it be pointed via %{_specdir}  or %{_topdir} ? (I\u0027m unsure actually)",
+      "revId": "187a70d9f29229174e43bfd2ebe328a2d93b1592",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
