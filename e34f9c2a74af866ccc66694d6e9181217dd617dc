@@ -1,0 +1,7 @@
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Verified+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-at: Tue, 07 Apr 2015 17:36:43 +0200
+Reviewed-on: https://review.gerrithub.io/229574
+Project: openstack-packages/neutron-fwaas
+Branch: refs/heads/f20-master
