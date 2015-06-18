@@ -5,6 +5,7 @@
 Name:           openstack-%{servicename}
 Version:        XXX
 Release:        XXX%{?dist}
+Epoch:          1
 Summary:        Openstack Networking %{type} plugin
 
 License:        ASL 2.0
@@ -17,7 +18,7 @@ BuildRequires:  python-pbr
 BuildRequires:  python-setuptools
 
 Requires:       python-%{servicename} = %{version}-%{release}
-Requires:       openstack-neutron >= %{version}
+Requires:       openstack-neutron >= %{epoch}:%{version}
 
 %description
 This is a %{type} service plugin for Openstack Neutron (Networking) service.
@@ -27,7 +28,7 @@ This is a %{type} service plugin for Openstack Neutron (Networking) service.
 Summary:        Neutron %{type} Python libraries
 Group:          Applications/System
 
-Requires:       python-neutron >= %{version}
+Requires:       python-neutron >= %{epoch}:%{version}
 Requires:       python-alembic
 Requires:       python-eventlet
 Requires:       python-netaddr >= 0.7.12
