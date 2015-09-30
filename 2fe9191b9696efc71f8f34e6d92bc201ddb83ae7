@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_c64f18bc",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-09-30T11:41:50Z",
+      "side": 0,
+      "message": "Issue was this line:\nError: Package: 1:openstack-neutron-fwaas-7.0.0.0rc2-dev1.el7.centos.noarch\n           Requires: openstack-neutron \u003e\u003d 1:7.0.0.0rc2\n\nSo the problem is that Delorean set Version with full upstream_version which includes milestone.\n7.0.0.0rc2 vs Fedora compatible pre-release versioning:\nVersion: 7.0.0\nRelease: 0.1.0rc2.dev1",
+      "revId": "2fe9191b9696efc71f8f34e6d92bc201ddb83ae7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
