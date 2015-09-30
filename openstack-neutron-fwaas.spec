@@ -17,7 +17,7 @@ BuildRequires:  python2-devel
 BuildRequires:  python-pbr
 BuildRequires:  python-setuptools
 
-Requires:       python-%{servicename} = %{epoch}:%{version}-%{release}
+Requires:       python-%{servicename} = %{epoch}:%{version}
 Requires:       openstack-neutron >= %{epoch}:%{version}
 
 %description
