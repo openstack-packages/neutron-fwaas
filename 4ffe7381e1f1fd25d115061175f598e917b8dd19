@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac4a560_60b54eed",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2015-12-11T13:20:15Z",
+      "side": 1,
+      "message": "You need to add BuildRequires: python-oslo-config\nand more: config generator touches all of codepaths, turning runtimes deps into BRs...",
+      "revId": "4ffe7381e1f1fd25d115061175f598e917b8dd19",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
