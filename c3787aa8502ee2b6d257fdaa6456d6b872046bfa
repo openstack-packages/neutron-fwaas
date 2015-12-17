@@ -1,0 +1,8 @@
+Code-Review+1: Jakub Libosvar <jakub.libosvar@gmail.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Verified+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-at: Thu, 17 Dec 2015 13:05:36 +0100
+Reviewed-on: https://review.gerrithub.io/255471
+Project: openstack-packages/neutron-fwaas
+Branch: refs/heads/rpm-liberty
