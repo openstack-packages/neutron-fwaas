@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_619062ed",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2016-04-07T15:04:34Z",
+      "side": 1,
+      "message": "SO if it depends on ipset, shouldn\u0027t it also depend on iptables?",
+      "revId": "edf18cb0d641cd675632395456cf4c6215d23b76",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
