@@ -16,6 +16,24 @@
       "revId": "7ca68c994dca005b7ed237fcb12f079cd28092fd",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_4112feb5",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1001239
+      },
+      "writtenOn": "2016-04-07T14:34:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "baa041b7_21049a13",
+      "revId": "7ca68c994dca005b7ed237fcb12f079cd28092fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
