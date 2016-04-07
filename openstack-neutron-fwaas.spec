@@ -30,7 +30,8 @@ This is a %{type} service plugin for Openstack Neutron (Networking) service.
 Summary:        Neutron %{type} Python libraries
 Group:          Applications/System
 
-Requires:       python-neutron >= 1:%{version}
+Requires:       ipset
+Requires:       python-neutron >= 1:8.0.0
 Requires:       python-alembic
 Requires:       python-eventlet
 Requires:       python-netaddr >= 0.7.12
