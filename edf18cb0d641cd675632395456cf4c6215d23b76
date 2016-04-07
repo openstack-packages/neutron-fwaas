@@ -16,6 +16,24 @@
       "revId": "edf18cb0d641cd675632395456cf4c6215d23b76",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_ac9301a3",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1001239
+      },
+      "writtenOn": "2016-04-07T16:10:32Z",
+      "side": 1,
+      "message": "sounds right.\nShould I add a similar requirement for all changed agents here? \nhttps://review.gerrithub.io/#/c/271574/3/openstack-neutron.spec",
+      "parentUuid": "baa041b7_619062ed",
+      "revId": "edf18cb0d641cd675632395456cf4c6215d23b76",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
