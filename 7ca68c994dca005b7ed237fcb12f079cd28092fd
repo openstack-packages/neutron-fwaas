@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_21049a13",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2016-04-07T13:13:04Z",
+      "side": 1,
+      "message": "it\u0027s not a dep for python code, it should belong to the main package, I guess, the one that includes config files.",
+      "revId": "7ca68c994dca005b7ed237fcb12f079cd28092fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
