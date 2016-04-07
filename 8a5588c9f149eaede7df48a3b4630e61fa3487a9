@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_8155a6c7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-07T13:44:06Z",
+      "side": 1,
+      "message": "Could be condensend/made more clear:\nRequire Neutron Mitaka version",
+      "revId": "8a5588c9f149eaede7df48a3b4630e61fa3487a9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_816c869d",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-07T13:44:06Z",
+      "side": 1,
+      "message": "8.0.0 here too!",
+      "range": {
+        "startLine": 17,
+        "startChar": 36,
+        "endLine": 17,
+        "endChar": 46
+      },
+      "revId": "8a5588c9f149eaede7df48a3b4630e61fa3487a9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
