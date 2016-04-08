@@ -35,14 +35,17 @@ Group:          Applications/System
 Requires:       python-neutron >= 1:8.0.0
 Requires:       python-alembic
 Requires:       python-eventlet
+Requires:       python-httplib2
 Requires:       python-netaddr >= 0.7.12
-Requires:       python-oslo-config >= 2:1.4.0
-Requires:       python-oslo-db >= 1.1.0
-Requires:       python-oslo-log >= 1.0.0
-Requires:       python-oslo-messaging >= 1.4.0.0
-Requires:       python-oslo-serialization >= 1.0.0
-Requires:       python-oslo-utils >= 1.0.0
+Requires:       python-oslo-config >= 2:3.9.0
+Requires:       python-oslo-db >= 4.6.0
+Requires:       python-oslo-log >= 3.2.0
+Requires:       python-oslo-messaging >= 4.5.0
+Requires:       python-oslo-serialization >= 2.4.0
+Requires:       python-oslo-service >= 1.0.0
+Requires:       python-oslo-utils >= 3.7.0
 Requires:       python-pbr
+Requires:       python-neutron-lib
 Requires:       python-requests
 Requires:       python-six
 Requires:       python-sqlalchemy
