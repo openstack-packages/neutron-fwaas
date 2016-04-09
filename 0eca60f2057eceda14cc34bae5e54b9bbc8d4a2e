@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_cdf51c84",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-09T07:27:20Z",
+      "side": 1,
+      "message": "How come, there\u0027s Requires: openstack-neutron  ?",
+      "range": {
+        "startLine": 11,
+        "startChar": 5,
+        "endLine": 11,
+        "endChar": 31
+      },
+      "revId": "0eca60f2057eceda14cc34bae5e54b9bbc8d4a2e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_adf2d898",
+        "filename": "openstack-neutron-fwaas.spec",
+        "patchSetId": 7
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-04-09T07:27:20Z",
+      "side": 1,
+      "message": "^ here",
+      "revId": "0eca60f2057eceda14cc34bae5e54b9bbc8d4a2e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
